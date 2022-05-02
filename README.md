@@ -6,7 +6,7 @@ HRA!(@thara1129)さんが思いついた。
 
 ## ■ SCCとの結線方法について
 HRA!(@thara1129)さんの方法通りです。A12とMA15を入れ替えます。
-<img src="./raw/main/schematic/eseSSC_SST_wiring.png" width=800>  
+<img src="./blob/main/schematic/eseSSC_SST_wiring.png" width=800>  
 
 ## ■ Flashの制御方法
 BANK0=0x01/BANK1=0x06に設定することで、
