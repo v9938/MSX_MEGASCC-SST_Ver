@@ -30,6 +30,15 @@ DACのKONAMI051650については取り外し不要です。
 
 シェルはKONAMIのMSX CassetteまたはRGR製のTransparent Cartridge Shell for MSX Konami-styleに対応しています。
 
+## ■ KONAMI純正シェルを使用する方へのお願い（RevA/B 基板）
+
+当方の基板サイズの計測ミスでケースと干渉することが分かりました。  
+使用する場合は、干渉する左上3x8mm程度をカットするようにお願いします。（下記図参考)  
+なお、当該部分は配線などが無いため動作に影響はありません。  
+
+<img src="./PCB/image5-0.jpg" >  
+
+
 ## ■ SCCとの結線について
 
 HRA!(@thara1129)さんの方法通りです。A12とMA15を入れ替えます。
